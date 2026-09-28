@@ -1,14 +1,51 @@
-# Leetcode-Solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧠 LeetCode Solutions & DSA Practice
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Divide and Conquer
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
-<!---LeetCode Topics End-->
+<div align="center">
+
+  [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Yogesh__B__N-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yogesh_B_N/)
+  [![Problems Solved](https://img.shields.io/badge/Problems_Solved-496-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white)](https://leetcode.com/u/Yogesh_B_N/)
+  [![Sync Tool](https://img.shields.io/badge/Synced_With-LeetHub_v2-brightgreen?style=for-the-badge&logo=github)](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/Yogesh_B_N/">
+    <img src="https://leetcard.jacoblin.cool/Yogesh_B_N?ext=heatmap&theme=dark" alt="Yogesh's LeetCode Stats" />
+  </a>
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+This repository contains my personal solutions to **LeetCode** algorithmic problems, automatically synced using the **[LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)** extension.
+
+Each problem directory includes:
+- 📄 The **problem statement** and constraints.
+- 💻 The **source code** with clean implementation.
+- ⏱️ **Runtime & Memory complexity** benchmarks.
+
+---
+
+## 📊 Current Statistics
+
+- **Total Solved**: 496+
+- **Easy**: 298
+- **Medium**: 183
+- **Hard**: 15
+- **Global Ranking**: #216,630 (Top ~1.5% globally)
+
+---
+
+## 🚀 Milestones
+
+- [x] Reach 400 problems solved
+- [ ] Reach 500 problems solved (Almost there! 🎯)
+- [ ] Conquer 200+ Medium difficulty problems
+- [ ] Break into the Top 100,000 globally
+
+---
+
+<div align="center">
+  <sub>Maintained with ❤️ by <a href="https://leetcode.com/u/Yogesh_B_N/">Yogesh B N</a></sub>
+</div>
