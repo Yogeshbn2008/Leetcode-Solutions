@@ -55,6 +55,7 @@ Each problem directory includes:
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
@@ -66,4 +67,12 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
