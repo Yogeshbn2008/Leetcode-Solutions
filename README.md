@@ -49,3 +49,15 @@ Each problem directory includes:
 <div align="center">
   <sub>Maintained with ❤️ by <a href="https://leetcode.com/u/Yogesh_B_N/">Yogesh B N</a></sub>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0326-power-of-three) |
+<!---LeetCode Topics End-->
