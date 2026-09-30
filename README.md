@@ -71,6 +71,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Each problem directory includes:
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -87,4 +89,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
