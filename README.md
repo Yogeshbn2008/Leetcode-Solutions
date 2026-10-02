@@ -100,6 +100,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,8 +109,21 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
