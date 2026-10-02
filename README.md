@@ -83,6 +83,7 @@ Each problem directory includes:
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -103,4 +104,12 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
