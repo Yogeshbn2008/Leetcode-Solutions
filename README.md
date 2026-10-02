@@ -70,6 +70,7 @@ Each problem directory includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Combinatorics
@@ -80,6 +81,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
@@ -91,9 +93,14 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
