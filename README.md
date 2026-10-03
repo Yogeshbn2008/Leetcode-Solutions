@@ -67,6 +67,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,14 +110,17 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Array
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
 |  |
