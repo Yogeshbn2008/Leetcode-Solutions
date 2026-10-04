@@ -74,6 +74,7 @@ Each problem directory includes:
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
@@ -118,6 +119,7 @@ Each problem directory includes:
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -139,4 +141,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
