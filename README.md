@@ -75,6 +75,7 @@ Each problem directory includes:
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -87,12 +88,14 @@ Each problem directory includes:
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -100,6 +103,7 @@ Each problem directory includes:
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
@@ -130,6 +134,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
