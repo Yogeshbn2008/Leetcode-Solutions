@@ -81,6 +81,7 @@ Each problem directory includes:
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Each problem directory includes:
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Hash Table
 |  |
@@ -169,10 +171,12 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
