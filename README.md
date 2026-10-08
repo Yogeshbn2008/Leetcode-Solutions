@@ -79,6 +79,7 @@ Each problem directory includes:
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -132,12 +133,14 @@ Each problem directory includes:
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Array
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -174,11 +177,13 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
 |  |
