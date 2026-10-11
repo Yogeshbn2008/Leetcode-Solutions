@@ -80,6 +80,7 @@ Each problem directory includes:
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -144,6 +145,7 @@ Each problem directory includes:
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -187,6 +189,7 @@ Each problem directory includes:
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -206,4 +209,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
