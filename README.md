@@ -83,6 +83,7 @@ Each problem directory includes:
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -151,6 +152,7 @@ Each problem directory includes:
 | [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -167,6 +169,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
@@ -223,4 +226,16 @@ Each problem directory includes:
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
