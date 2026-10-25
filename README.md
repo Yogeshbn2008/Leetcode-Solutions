@@ -167,6 +167,7 @@ Each problem directory includes:
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -209,6 +210,7 @@ Each problem directory includes:
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,4 +259,12 @@ Each problem directory includes:
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
