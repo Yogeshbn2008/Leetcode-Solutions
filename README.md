@@ -95,6 +95,7 @@ Each problem directory includes:
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -118,6 +119,7 @@ Each problem directory includes:
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1360-number-of-days-between-two-dates](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
