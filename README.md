@@ -58,6 +58,7 @@ Each problem directory includes:
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1360-number-of-days-between-two-dates](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -167,6 +168,7 @@ Each problem directory includes:
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
