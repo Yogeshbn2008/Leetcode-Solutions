@@ -158,6 +158,7 @@ Each problem directory includes:
 | ------- |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Each problem directory includes:
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -204,6 +206,7 @@ Each problem directory includes:
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
@@ -222,6 +225,7 @@ Each problem directory includes:
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
