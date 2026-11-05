@@ -160,6 +160,7 @@ Each problem directory includes:
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Each problem directory includes:
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -232,6 +234,7 @@ Each problem directory includes:
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
