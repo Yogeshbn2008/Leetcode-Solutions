@@ -159,6 +159,7 @@ Each problem directory includes:
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Each problem directory includes:
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -200,6 +202,7 @@ Each problem directory includes:
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
@@ -227,6 +230,7 @@ Each problem directory includes:
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
