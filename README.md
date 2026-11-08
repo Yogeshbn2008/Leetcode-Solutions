@@ -185,6 +185,7 @@ Each problem directory includes:
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -242,6 +243,7 @@ Each problem directory includes:
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
@@ -262,6 +264,7 @@ Each problem directory includes:
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -299,12 +302,14 @@ Each problem directory includes:
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -330,4 +335,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
