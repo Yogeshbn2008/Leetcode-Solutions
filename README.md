@@ -55,6 +55,7 @@ Each problem directory includes:
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -108,6 +109,7 @@ Each problem directory includes:
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
@@ -203,6 +205,7 @@ Each problem directory includes:
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
