@@ -103,6 +103,7 @@ Each problem directory includes:
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3693-climbing-stairs-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -200,6 +201,7 @@ Each problem directory includes:
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
