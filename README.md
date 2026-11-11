@@ -67,6 +67,7 @@ Each problem directory includes:
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Each problem directory includes:
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
