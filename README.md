@@ -201,6 +201,7 @@ Each problem directory includes:
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
