@@ -62,6 +62,7 @@ Each problem directory includes:
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0887-super-egg-drop](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1360-number-of-days-between-two-dates](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -100,6 +101,7 @@ Each problem directory includes:
 | [0583-delete-operation-for-two-strings](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0887-super-egg-drop](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -224,6 +226,7 @@ Each problem directory includes:
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0887-super-egg-drop](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
