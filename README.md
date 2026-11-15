@@ -65,6 +65,7 @@ Each problem directory includes:
 | [0887-super-egg-drop](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1360-number-of-days-between-two-dates](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -107,6 +108,7 @@ Each problem directory includes:
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
@@ -200,6 +202,7 @@ Each problem directory includes:
 | [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -356,4 +359,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
