@@ -79,6 +79,7 @@ Each problem directory includes:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -94,6 +95,7 @@ Each problem directory includes:
 | [0063-unique-paths-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0338-counting-bits](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0494-target-sum) |
