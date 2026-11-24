@@ -68,6 +68,7 @@ Each problem directory includes:
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
@@ -218,6 +219,7 @@ Each problem directory includes:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -308,6 +310,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -323,6 +326,7 @@ Each problem directory includes:
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -385,4 +389,8 @@ Each problem directory includes:
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
