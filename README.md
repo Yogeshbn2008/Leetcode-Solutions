@@ -68,6 +68,7 @@ Each problem directory includes:
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [3360-stone-removal-game](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -384,6 +385,7 @@ Each problem directory includes:
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Monotonic Stack
 |  |
 | ------- |
