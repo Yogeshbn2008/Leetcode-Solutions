@@ -206,6 +206,7 @@ Each problem directory includes:
 | [0665-non-decreasing-array](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -266,6 +267,7 @@ Each problem directory includes:
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
@@ -384,6 +386,7 @@ Each problem directory includes:
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Monotonic Stack
@@ -395,4 +398,8 @@ Each problem directory includes:
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
