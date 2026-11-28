@@ -138,6 +138,7 @@ Each problem directory includes:
 | [0678-valid-parenthesis-string](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1092-shortest-common-supersequence) |
@@ -207,6 +208,7 @@ Each problem directory includes:
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1002-find-common-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1049-last-stone-weight-ii](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -236,6 +238,7 @@ Each problem directory includes:
 | [0012-integer-to-roman](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0491-non-decreasing-subsequences](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1002-find-common-characters](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [2465-number-of-distinct-averages](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshbn2008/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
